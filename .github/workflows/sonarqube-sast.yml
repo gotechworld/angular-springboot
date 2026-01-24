@@ -1,3 +1,4 @@
+# Switch off Automatic Analysis
 name: SAST
 on:
   push:
