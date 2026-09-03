@@ -60,6 +60,6 @@ For more information on using the Angular CLI, including detailed command refere
 
 &nbsp;
 
-[![Quality gate](https://sonarcloud.io/api/project_badges/quality_gate?project=gotechworld_angular-springboot)](https://sonarcloud.io/summary/new_code?id=gotechworld_angular-springboot)
+[![Quality gate](https://sonarcloud.io/api/project_badges/quality_gate?project=angular-springboot)](https://sonarcloud.io/summary/new_code?id=angular-springboot)
 
 
